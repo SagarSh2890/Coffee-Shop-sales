@@ -16,6 +16,7 @@ Compare store-level performance
 
 Identify top-performing products
 
+
 📊 Key KPIs
 
 Total Sales: $698,812.33
@@ -26,7 +27,9 @@ Average Bill per Person: 4.69
 
 Average Orders per Person: 1.44
 
+
 📈 Dashboard Insights
+
 ⏰ Hourly Sales Trend
 
 Peak order quantity observed between 8 AM – 10 AM
@@ -35,13 +38,6 @@ Sales decline after afternoon hours
 
 Morning hours are the highest revenue contributors
 
-🏪 Store Performance
-
-Astoria generates highest sales
-
-Hell’s Kitchen and Lower Manhattan follow closely
-
-Sales and footfall trend is consistent across locations
 
 🥇 Top 5 Products (Based on Sales)
 
@@ -63,6 +59,7 @@ Tea and Bakery also show strong performance
 
 Some categories contribute very minimal share
 
+
 📏 Size Distribution
 
 Regular size orders dominate (~39%)
@@ -70,6 +67,8 @@ Regular size orders dominate (~39%)
 Large and Not Defined also contribute significantly
 
 Small size has lowest contribution
+
+
 
 📅 Weekday Orders
 
