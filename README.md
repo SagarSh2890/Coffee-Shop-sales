@@ -86,19 +86,6 @@ Higher order volume observed mid-week
 Slight drop towards weekends
 
 
-🥇 Top 5 Products (Based on Sales)
-
-Barista Espresso
-
-Hot Chocolate
-
-Brewed Chai Tea
-
-Gourmet Brewed Coffee
-
-Brewed Black Tea
-
-
 
 💡 Business Recommendations
 
@@ -117,6 +104,10 @@ Improve weekend promotional strategies
 
 Microsoft Excel
 
+
+📊 Full Dashboard Overview 
+
+![dashboard](https://github.com/SagarSh2890/Coffee-Shop-sales/blob/main/coffee%20shop%20sales%20dashboard%20.png)
 
 
 
