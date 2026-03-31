@@ -27,6 +27,9 @@ Average Bill per Person: 4.69
 
 Average Orders per Person: 1.44
 
+![image](https://github.com/SagarSh2890/Coffee-Shop-sales/blob/main/KPIs.png)
+
+
 
 📈 Dashboard Insights
 
