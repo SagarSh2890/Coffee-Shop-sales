@@ -31,6 +31,21 @@ Average Orders per Person: 1.44
 📈 Dashboard Insights
 
 
+📊 Top 5 Products based on Sales
+
+Barista Espresso
+
+Brewed Black Tea
+
+Brewed Chai Tea 
+
+Gourmet Brewed Coffee
+
+Hot Chocolate
+
+![image](https://github.com/SagarSh2890/Coffee-Shop-sales/blob/main/Screenshot%20(262).png)
+
+
 ⏰ Hourly Sales Trend
 
 Peak order quantity observed between 8 AM – 10 AM
