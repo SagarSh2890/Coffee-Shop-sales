@@ -30,6 +30,7 @@ Average Orders per Person: 1.44
 
 📈 Dashboard Insights
 
+
 ⏰ Hourly Sales Trend
 
 Peak order quantity observed between 8 AM – 10 AM
@@ -37,7 +38,6 @@ Peak order quantity observed between 8 AM – 10 AM
 Sales decline after afternoon hours
 
 Morning hours are the highest revenue contributors
-
 
 
 📦 Category Distribution
@@ -56,6 +56,8 @@ Regular size orders dominate (~39%)
 Large and Not Defined also contribute significantly
 
 Small size has lowest contribution
+
+![image](https://github.com/SagarSh2890/Coffee-Shop-sales/blob/main/Screenshot%20(99).png)
 
 
 
