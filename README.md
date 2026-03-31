@@ -39,17 +39,6 @@ Sales decline after afternoon hours
 Morning hours are the highest revenue contributors
 
 
-🥇 Top 5 Products (Based on Sales)
-
-Barista Espresso
-
-Hot Chocolate
-
-Brewed Chai Tea
-
-Gourmet Brewed Coffee
-
-Brewed Black Tea
 
 📦 Category Distribution
 
@@ -76,6 +65,21 @@ Higher order volume observed mid-week
 
 Slight drop towards weekends
 
+
+🥇 Top 5 Products (Based on Sales)
+
+Barista Espresso
+
+Hot Chocolate
+
+Brewed Chai Tea
+
+Gourmet Brewed Coffee
+
+Brewed Black Tea
+
+
+
 💡 Business Recommendations
 
 Increase staffing during peak morning hours
@@ -87,6 +91,7 @@ Optimize low-performing categories
 Focus marketing on Regular and Large size orders
 
 Improve weekend promotional strategies
+
 
 🛠 Tools Used
 
